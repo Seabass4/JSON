@@ -7,9 +7,9 @@
    "members" : [
      {
        "Name" : " Cristiano Ronaldo",
-       "Years played with club" : 9,
-       "Position played for Club" : "Forward (Right)",
-       "Former Clubs" : [
+       "Years" : 9,
+       "Position" : "Forward (Right)",
+       "Former" : [
          "Manchester-United",
          "Sporting CP",
          "Nacional"
@@ -17,18 +17,18 @@
      },
      {
        "Name" : "Raul Gonzalez",
-       "Years played with club" : 16,
-       "Position played for Club" : "Striker",
-       "Former Clubs" : [
+       "Years" : 16,
+       "Position" : "Striker",
+       "Former" : [
          "Atletico Madrid",
          "San Cristobal"
        ]
      },
      {
        "Name" : "Alfredo Di Stefano",
-       "Years played with club" : 11,
-       "Position played for Club" : "Forward (Center)",
-       "Former Clubs" : [
+       "Years" : 11,
+       "Position" : "Forward (Center)",
+       "Former" : [
          "River Plate",
          "Valencia",
          "Castellon",
