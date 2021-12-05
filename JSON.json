@@ -1,0 +1,40 @@
+{
+   "Title" : "Club heroes",
+   "Club" : "Real Madrid",
+   "Established" : 1902,
+   "Arena" : "Santiago Bernabeu",
+   "active" : true,
+   "members" : [
+     {
+       "Name" : " Cristiano Ronaldo",
+       "Years played with club" : 9,
+       "Position played for Club" : "Forward (Right)",
+       "Former Clubs" : [
+         "Manchester-United",
+         "Sporting CP",
+         "Nacional"
+       ]
+     },
+     {
+       "Name" : "Raul Gonzalez",
+       "Years played with club" : 16,
+       "Position played for Club" : "Striker",
+       "Former Clubs" : [
+         "Atletico Madrid",
+         "San Cristobal"
+       ]
+     },
+     {
+       "Name" : "Alfredo Di Stefano",
+       "Years played with club" : 11,
+       "Position played for Club" : "Forward (Center)",
+       "Former Clubs" : [
+         "River Plate",
+         "Valencia",
+         "Castellon",
+         "Rayo Vallecano",
+         "Sporting CP"
+       ]
+     }
+   ]
+ }
